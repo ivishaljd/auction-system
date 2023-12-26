@@ -1,6 +1,4 @@
 # Auction Website
-
-
 This is a project I originally worked on for a charity event and I've been improving it in my spare time ever since. Contributions and suggestions are welcome!
 
 ## Table of contents
